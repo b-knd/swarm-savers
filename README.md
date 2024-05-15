@@ -19,3 +19,17 @@ https://www.youtube.com/watch?v=VLuNP-NBnNI
 ### Enhancements
 - Live drone feed for survivor detection
 - Limited to human detection only (cannot differentiate between rescue team and survivor)
+
+### Development
+```bash
+git clone repository
+
+#create new branch
+git branch dev-name
+git checkout dev-name
+
+#committing and push changes
+git add file1 file2
+git commit
+git push origin dev-name
+```
